@@ -1,4 +1,7 @@
-## Estudante e desenvolvedor em formação. Conhecimentos em HTML, CSS, JavaScript, Python e Supabase. Sempre buscando aprender, criar projetos e evoluir na programação.
+## Desenvolvedor em formação | Web & Software Development
+HTML • CSS • JavaScript • Python • Supabase
+ Construindo projetos e aprimorando minhas habilidades em desenvolvimento.
+
 
 
 Possuo conhecimento básico nas seguintes linguagens:
