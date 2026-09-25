@@ -1,4 +1,4 @@
-## Olá!! Eu sou o Bruno e atualmente sou estudante de técnico em Desenvolvimento de Sistemas
+## Estudante e desenvolvedor em formação. Conhecimentos em HTML, CSS, JavaScript, Python e Supabase. Sempre buscando aprender, criar projetos e evoluir na programação.
 
 
 Possuo conhecimento básico nas seguintes linguagens:
